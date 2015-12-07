@@ -1,1 +1,3 @@
-Creation d'un script en JavaScript disant bonjour + nom"
+script en JavaScript disant bonjour + nom"
+
+Architecture d'une page HTML
